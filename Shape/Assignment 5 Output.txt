@@ -1,0 +1,42 @@
+run:
+class shape.Sphere Center coordinates: x-coordinate: 2 y-coordinate: -7 z-coordinate: 5 Radius: 15.0
+surface area: 2827.4333882308138
+volume: 14137.166941154068
+
+class shape.Parallelepiped center coordinates: x-coordinate: 7 y-coordinate: 3 z-coordinate: 9 length: 37.0 width: 9.0 height: 12.0
+surface area: 1770.0
+volume: 3996.0
+
+class shape.Cylinder Center coordinates: x-coordinate: 3 y-coordinate: -5 z-coordinate: 5 Radius: 13.0 Height: 10.0
+surface area: 1878.6724068466965
+volume: 5309.29158456675
+
+class shape.Cone Center coordinates: x-coordinate: -5 y-coordinate: 3 z-coordinate: -1 Radius: 14.0 Height: 11.0
+surface area: 1398.834697674502
+volume: 2257.7579203798646
+
+shape.Cone
+volume: 2257.7579203798646
+
+shape.Parallelepiped
+volume: 3996.0
+
+shape.Cylinder
+volume: 5309.29158456675
+
+shape.Sphere
+volume: 14137.166941154068
+
+shape.Parallelepiped
+distance from origin: 11.789826122551595
+
+shape.Sphere
+distance from origin: 8.831760866327848
+
+shape.Cylinder
+distance from origin: 7.681145747868608
+
+shape.Cone
+distance from origin: 5.916079783099616
+
+BUILD SUCCESSFUL (total time: 0 seconds)
